@@ -1,9 +1,9 @@
-ï»¿@echo off
+@echo off
 
 :: VS2015
 set VisualStudioVersion=14.0
 
-:: ì´ ë°°ì¹˜íŒŒì¼ì´ ìœ„ì¹˜í•œ ê²½ë¡œë¡œ ì´ë™
+:: ÀÌ ¹èÄ¡ÆÄÀÏÀÌ À§Ä¡ÇÑ °æ·Î·Î ÀÌµ¿
 set SlnPath=%~dp0
 cd "%SlnPath%"
 
